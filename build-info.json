@@ -1,0 +1,103 @@
+{
+  "application": "MicNeverDown",
+  "version": "1.3.0",
+  "target": ".NET Framework 4.8; WinExe; AnyCPU; Release; C# 7.3",
+  "deterministic": true,
+  "compilerAssemblyVersion": "5.0.0.0",
+  "compilerFileVersion": "5.0.25.56712",
+  "powerShellVersion": "7.6.5",
+  "compilerFiles": [
+    {
+      "name": "Microsoft.CodeAnalysis.dll",
+      "sha256": "a11461236d71889c0d7e440e9b08cb2e381f59a16a845648c3809855b6305dcd"
+    },
+    {
+      "name": "Microsoft.CodeAnalysis.CSharp.dll",
+      "sha256": "a1cbb3e005e5f91cbed130ef7eeaa79204e6bb10e05c54ce4c384a81a7646627"
+    }
+  ],
+  "frameworkFiles": [
+    {
+      "name": "mscorlib.dll",
+      "sha256": "d480305aafc66b69b39a2cdd0740cd5e4f412304941cfbb3dfb2d4c82d221cd9"
+    },
+    {
+      "name": "System.dll",
+      "sha256": "3b353290b8bae3668d176f3689d4398cc1f6752f4c93bcaacc9ed21330c6e3a5"
+    },
+    {
+      "name": "System.Core.dll",
+      "sha256": "836f48f196618b22fdc4136b07121c7df848457f21e957a92fd314a2ce76116f"
+    },
+    {
+      "name": "System.Xml.dll",
+      "sha256": "101b592ee84271e2f8b2c4961f59f4d032856303f5396511355d5dc05789b1d5"
+    },
+    {
+      "name": "System.Drawing.dll",
+      "sha256": "e16f7abead4afde7f03b82e5869c5544043be2eae29647a9de5f565d61a3bd29"
+    },
+    {
+      "name": "System.Windows.Forms.dll",
+      "sha256": "8c0f533e089647aeffb3ce0868f01d696a3fd2893ced5c3570e8438c96613a98"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "name": "Program.cs",
+      "sha256": "ace87acec42e1f56d0fbeaff7d2127bc9dc1020c8aa100cb884dd8c294e86184"
+    },
+    {
+      "name": "TrayApp.cs",
+      "sha256": "0f31bbf7efd04206e708cc2dfa76971d24a7028a8018c343fc9207efc44fe984"
+    },
+    {
+      "name": "SettingsForm.cs",
+      "sha256": "e2bf4e0f3dccb01c40711f943556be374ea50ddcc6d53fc45820629df28070a5"
+    },
+    {
+      "name": "GuardEngine.cs",
+      "sha256": "5a889c10d16aa5e59c7fa3bca562cc24654f0c0043f408056a127f474a6bdeef"
+    },
+    {
+      "name": "ModelsAndStorage.cs",
+      "sha256": "bc7fc05774112a5e75de63f4b86c44d3f8df69abe0c2f1fcf504a393f861470f"
+    },
+    {
+      "name": "Audio.cs",
+      "sha256": "5af60359166e7b4ffad36d231ea643fbc36abaf5df40b6933626e4b2616cf75c"
+    },
+    {
+      "name": "Startup.cs",
+      "sha256": "046ea6f2bcb0b4ce44243e10541baef4101e34e42f1e876fb6c1968fca6829fd"
+    },
+    {
+      "name": "Localization.cs",
+      "sha256": "4d7f2ae7f15882d98f6b7bd451ca1c86cd5a7eab7736df0d805bd7d2e2b54118"
+    },
+    {
+      "name": "AssemblyInfo.cs",
+      "sha256": "eb60ec4af281441f20a7e1bb18df3815ff400aceeb6e15df91a86a4aae9933b2"
+    },
+    {
+      "name": "Cat.ico",
+      "sha256": "b334870a2a057f2d870843f0c1e64715094bdb1012303852978fd03e432afe2c"
+    },
+    {
+      "name": "app.manifest",
+      "sha256": "43eb1b438bc472640096fdf5124e66931fba16b3cd1c8605487a6d2d17fa12b7"
+    },
+    {
+      "name": "Build.ps1",
+      "sha256": "d7b5c4a1c36212527e35d6223f847ca16e2f73c37f993dfd282cc9730b783b03"
+    },
+    {
+      "name": "BuildSupport.cs",
+      "sha256": "997efdc84a23e173e9df98efe47e78c9bdd5f01c574180ef2c5f1f75b457d26f"
+    }
+  ],
+  "output": {
+    "name": "MicNeverDown.exe",
+    "sha256": "7bb05ea35ae0148fecec91242f72625faad8a1a16f6a7054dfdaf67e7e5c376c"
+  }
+}
