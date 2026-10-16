@@ -1,0 +1,10 @@
+bin/
+data/
+test-output/
+*.exe
+*.pdb
+*.zip
+*.tmp
+.vs/
+.vscode/
+*.user
